@@ -8,8 +8,10 @@ An Abstractive text summarizer trained using lstm based sequence to sequence mod
 
 ### Training Model Overview
 
+loss graph
+
 ![Output](./model/training_result.png "loss overview")
 
-
+encoder-decoder overview
 ![Output1](./model/model_plot.png "model overview")
 
